@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Login Ke Portal</name>
+   <tag></tag>
+   <elementGuidId>4d7ae3f9-fd67-4a9c-a3b0-cd286f03c4d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button-submit.outline</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[2]/div[4]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c288444c-9918-4cd8-9cfb-66719e0c7c2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-submit outline</value>
+      <webElementGuid>78fc5a10-e6f2-4306-ac21-00e3a0d9cb3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/auth/sign-in</value>
+      <webElementGuid>bd7e8e26-1a51-4808-9d4d-7eff01f293a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login Ke Portal</value>
+      <webElementGuid>bd200cbd-b451-4ebb-88c5-b46754238700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;section-landing&quot;]/div[@class=&quot;row-section&quot;]/div[@class=&quot;right-section&quot;]/div[@class=&quot;button-section&quot;]/a[@class=&quot;button-submit outline&quot;]</value>
+      <webElementGuid>3002f14d-56a2-4674-bce0-a65bd38ee41a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[2]/div[4]/a[2]</value>
+      <webElementGuid>4fd2e6f8-7527-45a5-8b97-bf7cb7f320c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Login Ke Portal')]</value>
+      <webElementGuid>7df5ee61-61f7-47ca-a048-3fb66295b9ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktivasi Akun Portal'])[1]/following::a[1]</value>
+      <webElementGuid>4afde48a-7c42-4fac-8ff9-4ac6857c9dd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Portal Usaha Youtap'])[2]/following::a[2]</value>
+      <webElementGuid>9858bd50-6079-4da6-ac2a-e42787f8474e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Youtap jika bisnismu belum terdaftar! Gratis.'])[1]/preceding::a[1]</value>
+      <webElementGuid>9e189ffa-bdcc-4dce-bb0e-2a8606282be9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login Ke Portal']/parent::*</value>
+      <webElementGuid>766a693c-08be-43be-833c-9b3ee8edbb92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/auth/sign-in')]</value>
+      <webElementGuid>9c2af700-3b4d-41d2-bffb-bc73712819bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>70db9a1d-441a-49bc-9350-2d39f9668df4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/auth/sign-in' and (text() = 'Login Ke Portal' or . = 'Login Ke Portal')]</value>
+      <webElementGuid>6a1f53cf-09cd-4ca2-89b1-b60a4582fa49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
